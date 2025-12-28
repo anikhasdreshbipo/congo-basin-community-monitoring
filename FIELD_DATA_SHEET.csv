@@ -1,0 +1,4 @@
+Date,Observer_Name,GPS_Latitude,GPS_Longitude,Species_Common_Name,Species_Scientific_Name,Count,Behavior,Evidence_Human_Activity_Type,Severity,Notes,Weather_Conditions,Canopy_Cover_Percent,Photos_Reference
+2025-12-01,John M.,-1.2345,15.6789,Forest Elephant,Loxodonta cyclotis,2,Feeding,None,,,Sunny,85,IMG_001
+2025-12-01,Mary K.,-1.2350,15.6795,Chimpanzee,Pan troglodytes,5,Resting,Logging,Medium,"Recent tree cuts observed",Partly Cloudy,70,IMG_002
+2025-12-02,Samuel L.,-1.2400,15.6800,Western Lowland Gorilla,Gorilla gorilla gorilla,1,Moving,Poaching,High,"Empty cartridge found",Rainy,90,IMG_003
