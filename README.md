@@ -1,2 +1,3 @@
-# congo-basin-community-monitoring
-Community-led forest monitoring initiative in the Congo Basin for wildlife conservation and forest health data collection.
+# Congo Basin Community Monitoring
+
+The Congo Basin Community Monitoring initiative aims to empower local communities in the Congo Basin region to actively participate in forest conservation through systematic data collection on wildlife indicators and forest health. This project fosters community-led monitoring, supports anti-poaching efforts, and provides critical data for adaptive management of protected areas, ensuring sustainable biodiversity conservation and strengthening the resilience of forest ecosystems.
